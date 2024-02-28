@@ -19,3 +19,6 @@
 2. ⋅⋅⋅Students can log in to view their results by using their roll number.⋅⋅⋅
 3. ⋅⋅⋅Admins can log in with the provided password to manage student results.⋅⋅⋅
 4. ⋅⋅⋅Navigate through the dashboard to manage student results, student profiles, and other functionalities.⋅⋅⋅
+
+# Project Snips:
+
